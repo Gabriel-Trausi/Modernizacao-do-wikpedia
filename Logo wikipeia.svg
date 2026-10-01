@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Logo da Wikipédia">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5bc0ff"/>
+      <stop offset="100%" stop-color="#1f78d1"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(8,6)">
+    <circle cx="118" cy="94" r="82" fill="url(#g1)" stroke="#0d4a8f" stroke-width="6"/>
+
+    <path d="M 37 94 L 202 94" stroke="#0d4a8f" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <path d="M 118 12 L 118 176" stroke="#0d4a8f" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <path d="M 52 46 Q 118 72 184 46" stroke="#0d4a8f" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <path d="M 52 142 Q 118 118 184 142" stroke="#0d4a8f" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <path d="M 65 32 C 82 15, 100 10, 118 18 C 135 10, 154 15, 170 32" stroke="#0d4a8f" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <path d="M 65 156 C 82 173, 100 178, 118 170 C 135 178, 154 173, 170 156" stroke="#0d4a8f" stroke-width="6" fill="none" stroke-linecap="round"/>
+
+    <path d="M 84 49 L 94 132 L 118 82 L 142 132 L 152 49" fill="none" stroke="#ffffff" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 74 52 Q 118 19 162 52" fill="none" stroke="#dfeeff" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+    <path d="M 75 137 Q 118 167 161 137" fill="none" stroke="#dfeeff" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+  </g>
+</svg>
