@@ -59,4 +59,4 @@ Ferramentas de inteligência artificial foram utilizadas como apoio durante a pr
 Os textos são apresentados como material de estudo e foram adaptados de artigos da Wikipédia, com links para as fontes correspondentes nas páginas. O conteúdo da Wikipédia é disponibilizado sob a licença [Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.pt), conforme indicado no site. Marcas, nomes e imagens pertencem aos seus respectivos titulares.
 
 Este projeto é independente, sem vínculo ou endosso da Wikimedia Foundation, da Wikipédia ou da Rockstar Games. Para reutilizar textos ou outros materiais, consulte a licença e as condições aplicáveis a cada fonte.
-# Moderniza-o-do-wikpedia
+# Modernização-do-wikpedia
